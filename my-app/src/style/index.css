@@ -1,0 +1,14 @@
+@font-face{
+    font-family: TaipeiSansTCBeta-Bold ;
+    src:url('../assets/text/TaipeiSansTCBeta-Bold.ttf');
+}
+
+@font-face{
+    font-family: TaipeiSansTCBeta-Light ;
+    src:url('../assets/text/TaipeiSansTCBeta-Light.ttf');
+}
+
+@font-face{
+    font-family: TaipeiSansTCBeta-Regular ;
+    src:url('../assets/text/TaipeiSansTCBeta-Regular.ttf');
+}
